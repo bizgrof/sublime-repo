@@ -1,0 +1,665 @@
+{
+	"folder_history":
+	[
+		"/C/Users/xBIZGROFx/Documents/Project/yamogu-opencart/yamogu/docs",
+		"/C/Users/xBIZGROFx/Documents/Project/adonis-framework",
+		"/C/Users/xBIZGROFx/Documents/Project/keystone",
+		"/C/Users/xBIZGROFx/Documents/Project/celado-media.ru",
+		"/C/Users/xBIZGROFx/Documents/Project/edinstvo-trans.ru",
+		"/C/Users/xBIZGROFx/Documents/Project/yamogu",
+		"/C/Users/xBIZGROFx/Documents/Project/express"
+	],
+	"last_version": 3126,
+	"last_window_id": 3,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"color",
+						"ColorSchemeSelector: Select Color Scheme"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 416.0
+			},
+			"console":
+			{
+				"height": 146.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/xBIZGROFx/Documents/Project/express/package.json",
+				"/C/Users/xBIZGROFx/AppData/Roaming/Sublime Text 3/Packages/jshintify/Default.sublime-keymap",
+				"/C/Users/xBIZGROFx/AppData/Roaming/Sublime Text 3/Packages/JSHint Gutter/JSHint.sublime-settings",
+				"/C/Users/xBIZGROFx/AppData/Roaming/Sublime Text 3/Packages/JSLint/JSLint.sublime-settings",
+				"/C/Users/xBIZGROFx/AppData/Roaming/Sublime Text 3/Packages/User/JSLint.sublime-settings",
+				"/C/Users/xBIZGROFx/Documents/Project/vk-scripts/vkDeleteMsg.js"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 491.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 200.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"url",
+						"urlencoded"
+					],
+					[
+						"body",
+						"bodyParser"
+					],
+					[
+						"se",
+						"send"
+					],
+					[
+						"find",
+						"findOne"
+					],
+					[
+						"ar",
+						"articles"
+					],
+					[
+						"send",
+						"sendStatus"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"nav",
+						"nav-link-active"
+					],
+					[
+						"fu",
+						"function"
+					],
+					[
+						"margin",
+						"margin-top"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"hidden",
+						"hidden-sm"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Users/xBIZGROFx/YandexDisk/psd/selfdevelopment.ru/Технические документы/Категории",
+					"settings":
+					{
+						"buffer_size": 730,
+						"encoding": "UTF-8",
+						"line_ending": "Windows",
+						"name": "Категории:"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 353.0,
+				"last_filter": "seth",
+				"selected_items":
+				[
+					[
+						"seth",
+						"Set Syntax: HTML"
+					],
+					[
+						"sethtml",
+						"Set Syntax: HTML"
+					],
+					[
+						"setht",
+						"Set Syntax: HTML"
+					],
+					[
+						"git com",
+						"Git: Commit"
+					],
+					[
+						"git add",
+						"Git: Add All"
+					],
+					[
+						"set sass",
+						"Set Syntax: Sass"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"termi",
+						"Terminal: Open in project folder"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"color",
+						"ColorSchemeSelector: Select Color Scheme"
+					]
+				],
+				"width": 380.0
+			},
+			"console":
+			{
+				"height": 146.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/Users/xBIZGROFx/Documents/Project/yamogu-opencart/yamogu/docs",
+				"/C/Users/xBIZGROFx/Documents/Project/yamogu-opencart/yamogu/docs/catalog",
+				"/C/Users/xBIZGROFx/Documents/Project/yamogu-opencart/yamogu/docs/catalog/view",
+				"/C/Users/xBIZGROFx/Documents/Project/yamogu-opencart/yamogu/docs/catalog/view/theme",
+				"/C/Users/xBIZGROFx/Documents/Project/yamogu-opencart/yamogu/docs/catalog/view/theme/yamogu",
+				"/C/Users/xBIZGROFx/Documents/Project/yamogu-opencart/yamogu/docs/catalog/view/theme/yamogu/stylesheet",
+				"/C/Users/xBIZGROFx/Documents/Project/yamogu-opencart/yamogu/docs/catalog/view/theme/yamogu/template",
+				"/C/Users/xBIZGROFx/Documents/Project/yamogu-opencart/yamogu/docs/catalog/view/theme/yamogu/template/checkout",
+				"/C/Users/xBIZGROFx/Documents/Project/yamogu-opencart/yamogu/docs/catalog/view/theme/yamogu/template/payment"
+			],
+			"file_history":
+			[
+				"/C/Users/xBIZGROFx/Documents/Project/yamogu-opencart/yamogu/docs/catalog/view/theme/yamogu/template/common/header.tpl",
+				"/C/Users/xBIZGROFx/Documents/Project/yamogu-opencart/yamogu/docs/catalog/view/theme/default/template/payment/yamodule.tpl",
+				"/C/Users/xBIZGROFx/Documents/Project/yamogu-opencart/yamogu/docs/catalog/view/theme/yamogu/template/checkout/payment_address.tpl",
+				"/C/Users/xBIZGROFx/Documents/Project/yamogu-opencart/yamogu/docs/catalog/view/theme/yamogu/stylesheet/main.css",
+				"/C/Users/xBIZGROFx/Documents/Project/yamogu-opencart/yamogu/docs/catalog/view/theme/yamogu/template/payment/cod.tpl",
+				"/C/Users/xBIZGROFx/Documents/Project/yamogu-opencart/yamogu/docs/catalog/view/theme/yamogu/template/checkout/register.tpl",
+				"/C/Users/xBIZGROFx/Documents/Project/yamogu-opencart/yamogu/docs/catalog/view/theme/yamogu/template/checkout/shipping_address.tpl",
+				"/C/Users/xBIZGROFx/Documents/Project/yamogu-opencart/yamogu/docs/system/storage/modification/catalog/view/theme/yamogu/template/checkout/shipping_method.tpl",
+				"/C/Users/xBIZGROFx/Documents/Project/yamogu-opencart/yamogu/docs/catalog/view/theme/yamogu/template/checkout/guest.tpl",
+				"/C/Users/xBIZGROFx/Documents/Project/yamogu-opencart/yamogu/docs/catalog/view/theme/yamogu/template/checkout/shipping_method.tpl",
+				"/C/Users/xBIZGROFx/Documents/Project/yamogu-opencart/yamogu/docs/catalog/view/theme/yamogu/template/checkout/payment_method.tpl",
+				"/C/Users/xBIZGROFx/Documents/Project/yamogu-opencart/yamogu/docs/catalog/view/theme/yamogu/template/checkout/checkout.tpl",
+				"/C/Users/xBIZGROFx/Documents/Project/yamogu-opencart/yamogu/docs/catalog/view/theme/yamogu/template/payment/free_checkout.tpl",
+				"/C/Users/xBIZGROFx/Documents/Project/yamogu-opencart/yamogu/docs/catalog/language/russian/checkout/checkout.php",
+				"/C/Users/xBIZGROFx/Documents/Project/yamogu-opencart/yamogu/docs/catalog/view/theme/default/template/checkout/checkout.tpl",
+				"/C/Users/xBIZGROFx/Documents/Project/yamogu-opencart/yamogu/docs/catalog/view/theme/yamogu/template/checkout/login.tpl",
+				"/C/Users/xBIZGROFx/Documents/Project/yamogu-opencart/yamogu/docs/catalog/controller/checkout/guest.php",
+				"/C/Users/xBIZGROFx/Documents/Project/yamogu-opencart/yamogu/docs/catalog/language/russian/account/login.php",
+				"/C/Users/xBIZGROFx/Documents/Project/yamogu-opencart/yamogu/docs/catalog/view/theme/yamogu/template/account/login.tpl",
+				"/C/Users/xBIZGROFx/Documents/Project/express/app/common/view/footer.ejs",
+				"/C/Users/xBIZGROFx/Documents/Project/express/app/common/view/header.ejs",
+				"/C/Users/xBIZGROFx/Documents/Project/express/app/common/view/styles/style.css",
+				"/C/Users/xBIZGROFx/Documents/Project/express/app/common/view/blog.ejs",
+				"/C/Users/xBIZGROFx/Documents/Project/adonis-framework/src/Route/Group.js",
+				"/C/Users/xBIZGROFx/Documents/Project/express/app/start.js",
+				"/C/Users/xBIZGROFx/Documents/Project/express/app/common/view/index.ejs",
+				"/C/Users/xBIZGROFx/Documents/Project/express/start.js",
+				"/C/Users/xBIZGROFx/Desktop/framework-master/framework-master/index.js",
+				"/C/Users/xBIZGROFx/Desktop/framework-master/framework-master/builders.js",
+				"/C/Users/xBIZGROFx/Documents/Project/keystone/fields/explorer/server.js",
+				"/C/Users/xBIZGROFx/Documents/Project/celado-media.ru/send.php",
+				"/C/Users/xBIZGROFx/Documents/Project/celado-media.ru/scripts/sendMail.php",
+				"/C/Users/xBIZGROFx/Documents/Project/celado-media.ru/scripts/SendMailSmtpClass.php",
+				"/C/Users/xBIZGROFx/Documents/Project/edinstvo-trans.ru/navbar.php",
+				"/C/Users/xBIZGROFx/Documents/Project/edinstvo-trans.ru/functions.php",
+				"/C/Users/xBIZGROFx/Documents/Project/edinstvo-trans.ru/footer.php",
+				"/C/Users/xBIZGROFx/Documents/Project/edinstvo-trans.ru/header.php",
+				"/C/Users/xBIZGROFx/Documents/Project/edinstvo-trans.ru/js/main.js",
+				"/C/Users/xBIZGROFx/Documents/Project/edinstvo-trans.ru/js/active.js",
+				"/C/Users/xBIZGROFx/YandexDisk/ыфв.html",
+				"/C/Users/xBIZGROFx/Documents/Project/yamogu/CHANGELOG",
+				"/C/Users/xBIZGROFx/Documents/Project/yamogu/docs/sftp-config.json",
+				"/C/Users/xBIZGROFx/Documents/Project/yamogu/docs/config.php",
+				"/C/Users/xBIZGROFx/Documents/Project/yamogu/docs/system/startup.php",
+				"/C/Users/xBIZGROFx/Documents/Project/yamogu/docs/index.php",
+				"/C/Users/xBIZGROFx/Desktop/error_log",
+				"/C/Users/xBIZGROFx/Documents/Project/yamogu/docs/admin/config.php",
+				"/C/Users/xBIZGROFx/Documents/Project/yamogu/src/_modules/nav/nav.sass",
+				"/C/Users/xBIZGROFx/Documents/Project/yamogu/src/_styles/main.sass",
+				"/C/Users/xBIZGROFx/Documents/Project/yamogu/src/_modules/header/header.sass",
+				"/C/Users/xBIZGROFx/Desktop/asd.html",
+				"/C/Users/xBIZGROFx/Documents/Project/yamogu/src/_modules/sidebar/sidebar.jade",
+				"/C/Users/xBIZGROFx/Documents/Project/yamogu/src/cart.jade",
+				"/C/Users/xBIZGROFx/Documents/Project/yamogu/src/_layouts/base.jade",
+				"/C/Users/xBIZGROFx/Documents/Project/yamogu/package.json",
+				"/C/Users/xBIZGROFx/Documents/Project/yamogu/src/_modules/footer/footer.jade",
+				"/C/Users/xBIZGROFx/Documents/Project/yamogu/src/index.jade",
+				"/C/Users/xBIZGROFx/Documents/Project/express/package.json",
+				"/C/Users/xBIZGROFx/AppData/Roaming/Sublime Text 3/Packages/jshintify/Default.sublime-keymap",
+				"/C/Users/xBIZGROFx/AppData/Roaming/Sublime Text 3/Packages/JSHint Gutter/JSHint.sublime-settings",
+				"/C/Users/xBIZGROFx/AppData/Roaming/Sublime Text 3/Packages/JSLint/JSLint.sublime-settings",
+				"/C/Users/xBIZGROFx/AppData/Roaming/Sublime Text 3/Packages/User/JSLint.sublime-settings",
+				"/C/Users/xBIZGROFx/Documents/Project/vk-scripts/vkDeleteMsg.js"
+			],
+			"find":
+			{
+				"height": 29.0
+			},
+			"find_in_files":
+			{
+				"height": 119.0,
+				"where_history":
+				[
+					"C:\\Users\\xBIZGROFx\\Documents\\Project\\yamogu-opencart\\yamogu\\docs\\catalog",
+					"C:\\Users\\xBIZGROFx\\Documents\\Project\\yamogu-opencart\\yamogu\\docs\\catalog\\view",
+					"C:\\Users\\xBIZGROFx\\Documents\\Project\\yamogu-opencart\\yamogu\\docs\\catalog\\view\\theme",
+					"C:\\Users\\xBIZGROFx\\Documents\\Project\\yamogu-opencart\\yamogu\\docs\\catalog\\view\\theme\\yamogu\\template\\payment",
+					"C:\\Users\\xBIZGROFx\\Documents\\Project\\yamogu-opencart\\yamogu\\docs\\catalog\\view\\theme\\yamogu",
+					"C:\\Users\\xBIZGROFx\\Documents\\Project\\yamogu-opencart\\yamogu\\docs\\catalog\\view",
+					"C:\\Users\\xBIZGROFx\\Documents\\Project\\yamogu-opencart\\yamogu\\docs\\catalog\\view\\theme\\yamogu",
+					"C:\\Users\\xBIZGROFx\\Documents\\Project\\yamogu-opencart\\yamogu\\docs\\catalog",
+					"C:\\Users\\xBIZGROFx\\Documents\\Project\\yamogu-opencart\\yamogu\\docs\\catalog\\view",
+					"C:\\Users\\xBIZGROFx\\Documents\\Project\\yamogu-opencart\\yamogu\\docs",
+					"C:\\Users\\xBIZGROFx\\Documents\\Project\\yamogu-opencart\\yamogu\\docs\\catalog\\view",
+					"C:\\Users\\xBIZGROFx\\Documents\\Project\\yamogu-opencart\\yamogu\\docs\\catalog\\view\\theme\\yamogu\\template",
+					"C:\\Users\\xBIZGROFx\\Documents\\Project\\yamogu-opencart\\yamogu\\docs\\catalog\\view\\theme\\yamogu\\template\\checkout",
+					"C:\\Users\\xBIZGROFx\\Documents\\Project\\yamogu-opencart\\yamogu\\docs",
+					"C:\\Users\\xBIZGROFx\\Documents\\Project\\yamogu-opencart\\yamogu\\docs\\catalog",
+					"C:\\Users\\xBIZGROFx\\Documents\\Project\\yamogu-opencart\\yamogu\\docs\\catalog\\controller\\checkout",
+					"C:\\Users\\xBIZGROFx\\Documents\\Project\\yamogu-opencart\\yamogu\\docs",
+					"C:\\Users\\xBIZGROFx\\Documents\\Project\\yamogu-opencart\\yamogu\\docs\\catalog\\view",
+					"C:\\Users\\xBIZGROFx\\Documents\\Project\\yamogu-opencart\\yamogu\\docs",
+					"C:\\Users\\xBIZGROFx\\Documents\\Project\\yamogu-opencart\\yamogu\\docs\\catalog",
+					"C:\\Users\\xBIZGROFx\\Documents\\Project\\keystone"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"id=\"button-payment-address\"",
+					"https://money.yandex.ru/eshop.xml",
+					"index.php?route=payment/yamodule/confirm",
+					"yamodule",
+					"yamobile",
+					"collapse-checkout-confirm",
+					"<div><a class=\"btn btn-primary step1\">Назад</a></div>",
+					"collapse-checkout-confirm",
+					"id=\"collapse-checkout-confirm\"",
+					"id=\"button-confirm\"",
+					"id=\"button-payment-method\"",
+					"id=\"button-shipping-method\"",
+					"collapse-shipping-method",
+					"id=\"button-shipping-method\"",
+					"collapse-shipping-method",
+					"#collapse-shipping-method",
+					"button-guest",
+					"value=\"guest\"",
+					"account",
+					"text_register_account",
+					"collapse-checkout-option",
+					"button",
+					"collapse-checkout-option",
+					"<p",
+					"collapse-payment-address",
+					"panel panel-default",
+					"input-payment-firstname",
+					"Оформить заказ без регистрации",
+					"\nОформить заказ без регистрации",
+					"Создание учётной записи поможет делать покупки быстрее и удобнее, не внося одни и те же данные многократно (адрес доставки, имя, телефон и т.д.) Вы также, сможете отслеживать статус своего заказа, пользоваться Закладками, видеть свои предыдущие заказы.",
+					"<input type=\"radio\" name=\"account\" value=\"guest\" checked=\"checked\">",
+					"Новый покупатель",
+					"p",
+					"text_register_account",
+					"id=\"accordion\"",
+					"Создание учётной записи поможет делать покупки быстрее и удобнее, не внося одни и те же данные многократно (адрес доставки, имя, телефон и т.д.) Вы также, сможете отслеживать статус своего заказа, пользоваться Закладками, видеть свои предыдущие заказы, накапливать бонусные баллы (на них тоже можно покупать товары!) или получить скидку как постоянный покупатель.",
+					"Создание учетной записи",
+					"sty",
+					"css",
+					"'",
+					".get(",
+					".get",
+					"throw new Exception",
+					"send",
+					"/yamogu/public_html/",
+					"/home/yamogu/yamogu.ru/docs/",
+					"/docs/",
+					"/yamogu.ru/",
+					"/home/yamogu/",
+					"span",
+					".header__mobile_link",
+					"__mobile"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"\"",
+					"error_log",
+					"/home/c/cb25227/yamogu/public_html/",
+					"/yamogu/public_html/",
+					"/",
+					"/yamogu/public_html/",
+					"div",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\Users\\xBIZGROFx\\Documents\\Project\\express"
+				},
+				{
+					"path": "C:\\Users\\xBIZGROFx\\Documents\\Project\\yamogu"
+				},
+				{
+					"path": "C:\\Users\\xBIZGROFx\\Documents\\Project\\edinstvo-trans.ru"
+				},
+				{
+					"path": "C:\\Users\\xBIZGROFx\\Documents\\Project\\celado-media.ru"
+				},
+				{
+					"path": "C:\\Users\\xBIZGROFx\\Documents\\Project\\keystone"
+				},
+				{
+					"path": "C:\\Users\\xBIZGROFx\\Documents\\Project\\adonis-framework"
+				},
+				{
+					"path": "C:\\Users\\xBIZGROFx\\Documents\\Project\\yamogu-opencart\\yamogu\\docs"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/xBIZGROFx/YandexDisk/psd/selfdevelopment.ru/Технические документы/Категории",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 730,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										729,
+										729
+									]
+								],
+								"settings":
+								{
+									"auto_name": "Категории:",
+									"incomplete_sync": null,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 45.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 491.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 138.0
+			},
+			"output.sftp":
+			{
+				"height": 138.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,808,920,269,1914",
+			"project": "",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 242.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
